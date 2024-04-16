@@ -45,4 +45,4 @@ The update will be automatic
 
 
 ## 📜 License
-This project is licensed under MIT - see the [License](https://github.com/chickendoctor4/Free_miner_Nicehash/blob/main/LICENSE)
+This project is licensed under MIT - see the [License](https://github.com/chorizo56godpets/Chat_GPT_app_FREE/blob/main/LICENSE)
